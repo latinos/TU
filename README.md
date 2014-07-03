@@ -8,4 +8,5 @@ by Alicia Calderon
 
 
 where:
-    amassiro: /afs/cern.ch/user/a/amassiro/work/TU
+
+    amassiro: /afs/cern.ch/user/a/amassiro/workLatinos/TU
